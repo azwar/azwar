@@ -64,3 +64,7 @@ Here are some ideas to get you started:
 -->
 
 [![user:1950242's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/1950242?theme=default&website=true&location=true)](https://stackoverflow.com/users/1950242/azwar-akbar)
+
+<a href="https://stackoverflow.com/users/1950242/azwar-akbar">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/1950242?theme=default&website=true&location=true" alt="user:1950242's SO profile">
+</a>
